@@ -1,4 +1,4 @@
-# jekyll-glob
+# jekyll-glob [![rubygems version][badge]][rubygems]
 
 A [Jekyll](https://jekyllrb.com) plugin that interprets `include` paths as glob
 patterns. Useful for including an entire directory even if some of its
@@ -25,3 +25,5 @@ include:
 ```
 
 [8360]: https://github.com/jekyll/jekyll/issues/8630
+[badge]: https://img.shields.io/gem/v/jekyll-glob
+[rubygems]: https://rubygems.org/gems/jekyll-glob
